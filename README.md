@@ -27,3 +27,9 @@ Duration
 --------
 
 The tutorial will cover four hours
+
+
+Execution
+---------
+We did this exercise
+Henri Der Sarkissian
